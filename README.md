@@ -270,7 +270,7 @@ Users can explore scenarios such as:
 
 \## 📷 \[Other dashboard chart]
 
-!(image/year_year_trend.png)
+!(<img width="1042" height="688" alt="Image" src="https://github.com/user-attachments/assets/4e349a10-4e2f-40a6-8020-029680b97ad4" />)
 
 !(<img width="1181" height="654" alt="Image" src="https://github.com/user-attachments/assets/a514fa9d-68c9-4642-ba41-fe505dad1d98" />)
 
