@@ -272,7 +272,7 @@ Users can explore scenarios such as:
 
 !(image/year_year_trend.png)
 
-!(image/gross_profit.png)
+!(<img width="1181" height="654" alt="Image" src="https://github.com/user-attachments/assets/a514fa9d-68c9-4642-ba41-fe505dad1d98" />)
 
 !(image/scenario_chart.png)
 
