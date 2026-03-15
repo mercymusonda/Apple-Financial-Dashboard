@@ -156,7 +156,7 @@ The dashboard highlights several key metrics:
 
 📷 \*Screenshot of revenue \& margin charts:\*  
 
-!\[📊 Revenue Share Overview 2025](image/gross_margin.png)  
+!\[📊 Revenue Share Overview 2025](<img width="1028" height="545" alt="Image" src="https://github.com/user-attachments/assets/5f3d2550-b893-4fff-b8d9-8164911d794a" />)  
 
 
 
