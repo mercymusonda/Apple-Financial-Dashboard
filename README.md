@@ -216,7 +216,7 @@ A \*\*Revenue Share vs Gross Margin chart\*\* compares product segments:
 
 📷 \*Screenshot of product performance chart:\*  
 
-!\[📈 Product Performance](image/revenue_share.png)  
+!\[📈 Product Performance](<img width="1036" height="558" alt="Image" src="https://github.com/user-attachments/assets/4485a52c-57f7-4ef6-b954-629d35358e55" />)  
 
 
 
