@@ -242,7 +242,7 @@ Users can explore scenarios such as:
 
 📷 \*Screenshot of scenario analysis table:\*  
 
-!\[🔮 Scenario Analysis](image/scenario_table.png)  
+!\[🔮 Scenario Analysis](<img width="956" height="363" alt="Image" src="https://github.com/user-attachments/assets/99fba5c3-5fc3-4b67-9e19-dcc32c3aaa48" />)  
 
 
 
