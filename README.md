@@ -16,7 +16,7 @@ The dashboard explores revenue trends, profitability, regional sales distributio
 
 
 
-!\[📊 Dashboard Overview](image/dasboard_overview.png)
+!\[📊 Dashboard Overview](<img width="1920" height="1009" alt="Image" src="https://github.com/user-attachments/assets/b6e16b6a-8ec2-4994-9e50-c353dac3b1e1" />)
 
 
 
