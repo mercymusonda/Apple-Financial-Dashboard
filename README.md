@@ -274,7 +274,7 @@ Users can explore scenarios such as:
 
 !(<img width="1181" height="654" alt="Image" src="https://github.com/user-attachments/assets/a514fa9d-68c9-4642-ba41-fe505dad1d98" />)
 
-!(image/scenario_chart.png)
+!(<img width="1161" height="684" alt="Image" src="https://github.com/user-attachments/assets/7805f6a2-755c-46fd-8789-bdcac4cf3cfc" />)
 
 
 
