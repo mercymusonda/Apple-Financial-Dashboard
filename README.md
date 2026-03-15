@@ -128,7 +128,7 @@ Power Query was used to clean and structure the dataset. Key transformations inc
 
 📷 \*Screenshot of Power Query cleaning steps:\*  
 
-!\[🧹 Power Query Cleaning](image/powerquery_cleaning.png)    
+!\[🧹 Power Query Cleaning](<img width="1920" height="1026" alt="Image" src="https://github.com/user-attachments/assets/979307db-06af-4e39-ad11-b332d2bc3c02" />)    
 
 
 
