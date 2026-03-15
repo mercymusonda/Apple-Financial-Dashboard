@@ -16,7 +16,7 @@ The dashboard explores revenue trends, profitability, regional sales distributio
 
 
 
-!\[📊 Dashboard Overview](https://github.com/mercymusonda/Apple-Financial-Dashboard/blob/main/Screenshots/dasboard\_overview.png?raw=true)
+!\[📊 Dashboard Overview](image/dasboard_overview.png)
 
 
 
@@ -128,7 +128,7 @@ Power Query was used to clean and structure the dataset. Key transformations inc
 
 📷 \*Screenshot of Power Query cleaning steps:\*  
 
-!\[🧹 Power Query Cleaning](https://github.com/mercymusonda/Apple-Financial-Dashboard/blob/main/Screenshots/powerquery\_cleaning.png?raw=true)    
+!\[🧹 Power Query Cleaning](image/powerquery_cleaning.png)    
 
 
 
@@ -156,7 +156,7 @@ The dashboard highlights several key metrics:
 
 📷 \*Screenshot of revenue \& margin charts:\*  
 
-!\[📊 Revenue Share Overview 2025](https://github.com/mercymusonda/Apple-Financial-Dashboard/blob/main/Screenshots/gross\_margin.png?raw=true)  
+!\[📊 Revenue Share Overview 2025](image/gross_margin.png)  
 
 
 
@@ -188,7 +188,7 @@ Regions analyzed:
 
 📷 \*Screenshot of map chart:\*  
 
-!\[🗺 Regional Sales Map](https://github.com/mercymusonda/Apple-Financial-Dashboard/blob/main/Screenshots/map\_bubble.png?raw=true)  
+!\[🗺 Regional Sales Map](image/map_bubble.png)  
 
 
 
@@ -216,7 +216,7 @@ A \*\*Revenue Share vs Gross Margin chart\*\* compares product segments:
 
 📷 \*Screenshot of product performance chart:\*  
 
-!\[📈 Product Performance](https://github.com/mercymusonda/Apple-Financial-Dashboard/blob/main/Screenshots/revenue\_share.png?raw=true)  
+!\[📈 Product Performance](image/revenue_share.png)  
 
 
 
@@ -242,7 +242,7 @@ Users can explore scenarios such as:
 
 📷 \*Screenshot of scenario analysis table:\*  
 
-!\[🔮 Scenario Analysis](https://github.com/mercymusonda/Apple-Financial-Dashboard/blob/main/Screenshots/scenario\_table.png?raw=true)  
+!\[🔮 Scenario Analysis](image/scenario_table.png)  
 
 
 
@@ -270,11 +270,11 @@ Users can explore scenarios such as:
 
 \## 📷 \[Other dashboard chart]
 
-!(https://github.com/mercymusonda/Apple-Financial-Dashboard/blob/main/Screenshots/year\_year\_trend.png?raw=true)
+!(image/year_year_trend.png)
 
-!(https://github.com/mercymusonda/Apple-Financial-Dashboard/blob/main/Screenshots/gross\_profit.png?raw=true)
+!(image/gross_profit.png)
 
-!(https://github.com/mercymusonda/Apple-Financial-Dashboard/blob/main/Screenshots/scenario\_chart.png?raw=true)
+!(image/scenario_chart.png)
 
 
 
