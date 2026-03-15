@@ -188,7 +188,7 @@ Regions analyzed:
 
 📷 \*Screenshot of map chart:\*  
 
-!\[🗺 Regional Sales Map](image/map_bubble.png)  
+!\[🗺 Regional Sales Map](<img width="1021" height="985" alt="Image" src="https://github.com/user-attachments/assets/abdab886-f7ec-4473-a3b9-b5dc4f49ecb3" />)  
 
 
 
