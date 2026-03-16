@@ -1,7 +1,7 @@
 ## Apple Financial Dashboard (Excel)
 <img width="1920" height="1009" alt="Image" src="https://github.com/user-attachments/assets/b6e16b6a-8ec2-4994-9e50-c353dac3b1e1" />
 
-## #Introduction
+## Introduction
 This sales dashboard was created to analyze Apple's financial performance from 2023–2025.
 The data is from Apple Inc. Form 10-K annual reports covering 2023–2025. it contains Product revenue, Regional sales, Gross margins Operating expenses and Net profits
 
@@ -33,7 +33,7 @@ Power Query was used to clean and structure the dataset. Key transformations inc
 -Adjusting column data types  
 !<img width="1920" height="1026" alt="Image" src="https://github.com/user-attachments/assets/979307db-06af-4e39-ad11-b332d2bc3c02" />  
 
-##💰 Sales Datasets
+## 💰 Sales Datasets
  The dataset used for this project contains real-world data sales information for Apple.Inc from 2023-2025. The dataset is available in the included Excel file and provides the foundation for analysing data using Excel. it includes detailed information on product categories,revenue,profit margin, regional perfomance and annually trends, enabling a comprehensive analysis.
 
 Analytical questions That guide the analysis were: 
