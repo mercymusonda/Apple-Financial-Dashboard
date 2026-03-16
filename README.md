@@ -31,10 +31,10 @@ The following Excel skills were utilized for analysis:
  🧹Power Query
 
 Power Query was used to clean and structure the dataset. Key transformations included:  
--Extracting raw financial data  
+-Extracting raw financial data
 -Removing unnecessary columns
--Cleaning text fields  
--Trimming extra whitespace  
+-Cleaning text fields
+-Trimming extra whitespace
 -Adjusting column data types
 <img width="1920" height="1026" alt="Image" src="https://github.com/user-attachments/assets/979307db-06af-4e39-ad11-b332d2bc3c02" />  
 
@@ -75,7 +75,7 @@ Analytical questions That guide the analysis were;
 
 -**Data Transformation**: then Aggregated sales by product and region using Power Query.
 
--**Chart Creation** : Built a product performance chart in Excel to visualize revenue and sales trends.
+-**Chart Creation**: Built a product performance chart in Excel to visualize revenue and sales trends.
 
 -**Insights**: Identified top-selling products and their contribution to total revenue.
 
@@ -88,9 +88,9 @@ How would the revenue share change when product combinations and sales mix vary?
 
 -Calculated total revenue and determined the percentage contribution of each product category.
 
--**Visualization**:Created a revenue share chart to illustrate how different products contribute to overall revenue.
+-**Visualization**: Created a revenue share chart to illustrate how different products contribute to overall revenue.
 
--**Data Comparison**:Analyzed how different product combinations influence the overall revenue mix.
+-**Data Comparison**: Analyzed how different product combinations influence the overall revenue mix.
 
 
 **Insights 💡**
