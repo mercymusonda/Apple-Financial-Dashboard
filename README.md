@@ -6,7 +6,7 @@ This sales dashboard was created to analyze Apple's financial performance from 2
 The data is from Apple Inc. Form 10-K annual reports covering 2023–2025. it contains Product revenue, Regional sales, Gross margins Operating expenses and Net profits
 
 \# Dashboard File
-My final dashboard is in 
+My final dashboard is in my shared file
 
 
 
@@ -27,11 +27,11 @@ The following Excel skills were utilized for analysis:
   🧹Power Query
 
 Power Query was used to clean and structure the dataset. Key transformations included:  
-   🧾 Extracting raw financial data  
-    🧹 Removing unnecessary columns  
-    🔤 Cleaning text fields  
-    ✂️ Trimming extra whitespace  
-    🔢 Adjusting column data types  
+- Extracting raw financial data  
+- Removing unnecessary columns
+- Cleaning text fields  
+-Trimming extra whitespace  
+-Adjusting column data types  
 !<img width="1920" height="1026" alt="Image" src="https://github.com/user-attachments/assets/979307db-06af-4e39-ad11-b332d2bc3c02" />  
 
  ## Sales Datasets
@@ -40,21 +40,20 @@ Power Query was used to clean and structure the dataset. Key transformations inc
 
 
 ##  Analytical questions That guide the analysis were: 
--📱 Which Apple product generates the highest revenue?  
--🌍 Which region contributes the largest share of sales?  
--💰 Which product segment produces the highest margins?  
--⚖️ Which products present higher or lower concentration risk?  
--📊 Does selling more devices necessarily lead to higher profits?  
-   
-!<img width="1036" height="558" alt="Image" src="https://github.com/user-attachments/assets/4485a52c-57f7-4ef6-b954-629d35358e55" />
+-Which Apple product generates the highest revenue?  
+-Which region contributes the largest share of sales?  
+-Which product segment produces the highest margins?  
+-Which products present higher or lower concentration risk?  
+-Does selling more devices necessarily lead to higher profits?  
+   !<img width="1036" height="558" alt="Image" src="https://github.com/user-attachments/assets/4485a52c-57f7-4ef6-b954-629d35358e55" />
 
 
 \## 🗺 Regional Sales Analysis
 ![🗺 Regional Sales-Map and Bubbles]<img width="1021" height="985" alt="Image" src="https://github.com/user-attachments/assets/abdab886-f7ec-4473-a3b9-b5dc4f49ecb3" /> 
--👾 Excel feature: utilized Map chat with Bubles feature to plot sales across regions in 2025.
--🖌️ Design Choice: The map is enhance with custom vector image to achieve a visually appealing layout. Bubbles were used to differentiate sales magnitude across regions.
--📊 Data Representation: created separate series for each country with the available data, cobining them to provide a comprehensive geographical view'
--🔦 Visual Enhancement: improved readerbility and immediate understanding of geographica sales trend, enabling users to quickly grasp global sales disparities and easily indentify regions with high/low sales by bubble size.
+ -Excel feature: utilized Map chat with Bubles feature to plot sales across regions in 2025.
+ -Design Choice: The map is enhance with custom vector image to achieve a visually appealing layout. Bubbles were used to differentiate sales magnitude across regions.
+ -Data Representation: created separate series for each country with the available data, cobining them to provide a comprehensive geographical view'
+ -Visual Enhancement: improved readerbility and immediate understanding of geographica sales trend, enabling users to quickly grasp global sales disparities and easily indentify regions with high/low sales by bubble size.
 
 
  \##Product Performance Analysis  
@@ -65,14 +64,13 @@ Power Query was used to clean and structure the dataset. Key transformations inc
 🎧 Wearables  
 ☁️ Services 
 
--🏆**Which product has high revenue?**
-
--🔎**Key Skills**
+#Which product has high revenue?**
+**Key Skills**
 
 -I first used Power Query to extract the original data and cleaned raw sales, imported back to excel
--🔄 Data Transformation – then Aggregated sales by product and region using Power Query.
--📊Chart Creation  – Built a product performance chart in Excel to visualize revenue and sales trends.
-4.💡Insights – Identified top-selling products and their contribution to total revenue.
+-Data Transformation: then Aggregated sales by product and region using Power Query.
+-📊Chart Creation : Built a product performance chart in Excel to visualize revenue and sales trends.
+-Insights: Identified top-selling products and their contribution to total revenue.
 !<img width="1028" height="545" alt="Image" src="https://github.com/user-attachments/assets/5f3d2550-b893-4fff-b8d9-8164911d794a" />  
   
 
