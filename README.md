@@ -15,6 +15,7 @@ The following Excel skills were utilized for analysis:
 
 📊 Charts, Pivot Table   
 📈 data Visualizations and validation
+
 🧮 Formulas and Functions including:  
     ➕ SUM  
     📊 SUMPRODUCT  
