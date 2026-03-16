@@ -13,9 +13,9 @@ My final dashboard is in my shared file
 ## Excel Skills Used
 The following Excel skills were utilized for analysis:  
 
+🗾 Charts 
 📊 Pivot Table   
 📈 data Visualizations and validation
-🗺 charts  
 🧮 Formulas and Functions including:  
     ➕ SUM  
     📊 SUMPRODUCT  
