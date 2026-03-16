@@ -1,7 +1,7 @@
 ## Apple Financial Dashboard (Excel)
 <img width="1920" height="1009" alt="Image" src="https://github.com/user-attachments/assets/b6e16b6a-8ec2-4994-9e50-c353dac3b1e1" />
 
-## Introduction
+## #Introduction
 This sales dashboard was created to analyze Apple's financial performance from 2023–2025.
 The data is from Apple Inc. Form 10-K annual reports covering 2023–2025. it contains Product revenue, Regional sales, Gross margins Operating expenses and Net profits
 
@@ -33,7 +33,7 @@ Power Query was used to clean and structure the dataset. Key transformations inc
 -Adjusting column data types  
 !<img width="1920" height="1026" alt="Image" src="https://github.com/user-attachments/assets/979307db-06af-4e39-ad11-b332d2bc3c02" />  
 
-## Sales Datasets
+##💰 Sales Datasets
  The dataset used for this project contains real-world data sales information for Apple.Inc from 2023-2025. The dataset is available in the included Excel file and provides the foundation for analysing data using Excel. it includes detailed information on product categories,revenue,profit margin, regional perfomance and annually trends, enabling a comprehensive analysis.
 
 Analytical questions That guide the analysis were: 
@@ -45,8 +45,8 @@ Analytical questions That guide the analysis were:
    !<img width="1036" height="558" alt="Image" src="https://github.com/user-attachments/assets/4485a52c-57f7-4ef6-b954-629d35358e55" />
 
 
-# 🗺 Regional Sales Analysis
-[🗺 Regional Sales-Map and Bubbles]<img width="1021" height="985" alt="Image" src="https://github.com/user-attachments/assets/abdab886-f7ec-4473-a3b9-b5dc4f49ecb3" /> 
+# 🗺 Regional Sales Analysis 
+<img width="1021" height="985" alt="Image" src="https://github.com/user-attachments/assets/abdab886-f7ec-4473-a3b9-b5dc4f49ecb3" /> 
  -Excel feature: utilized Map chat with Bubles feature to plot sales across regions in 2025.
  -Design Choice: The map is enhance with custom vector image to achieve a visually appealing layout. Bubbles were used to differentiate sales magnitude across regions.
  -Data Representation: created separate series for each country with the available data, cobining them to provide a comprehensive geographical view'
@@ -90,7 +90,7 @@ if One product category accounts for the largest share of total revenue, it indi
 - **Growth Opportunities** – Some product segments contribute a smaller share of revenue, suggesting potential areas for strategic improvement or expansion.
 
 
-[Other dashboard chart]
+Other important chats
 
 <img width="1042" height="688" alt="Image" src="https://github.com/user-attachments/assets/4e349a10-4e2f-40a6-8020-029680b97ad4" />
 <img width="1181" height="654" alt="Image" src="https://github.com/user-attachments/assets/a514fa9d-68c9-4642-ba41-fe505dad1d98" />
