@@ -14,7 +14,7 @@ My final dashboard is in my shared file
 The following Excel skills were utilized for analysis:  
 
 📊 Pivot Table   
-📈 data Visualizations and validation
+📈 data Visualizations and validation. 
 🗺 charts  
 🧮 Formulas and Functions including:  
     ➕ SUM  
