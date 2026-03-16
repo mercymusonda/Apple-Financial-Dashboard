@@ -3,7 +3,7 @@
 
 ## Introduction
 This sales dashboard was created to analyze Apple's financial performance from 2023–2025.
-The data is from Apple Inc. Form 10-K annual reports covering 2023–2025. it contains Product revenue, Regional sales, Gross margins Operating expenses and Net profits
+The data is from **Apple Inc**. Form 10-K annual reports covering 2023–2025. it contains Product revenue, Regional sales, Gross margins Operating expenses and Net profits
 
 ## Dashboard File
 My final dashboard is in my shared file
@@ -60,7 +60,7 @@ Analytical questions That guide the analysis were:
 🎧 Wearables  
 ☁️ Services 
 
-## Which product has a high revenue?**
+## Which product has a high revenue?
 **Key Skills**
 -I first used Power Query to extract the original data and cleaned raw sales, imported back to excel
 -Data Transformation: then Aggregated sales by product and region using Power Query.
