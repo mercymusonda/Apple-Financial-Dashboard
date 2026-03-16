@@ -1,16 +1,16 @@
 # Apple Financial Dashboard (Excel)
 !<img width="1920" height="1009" alt="Image" src="https://github.com/user-attachments/assets/b6e16b6a-8ec2-4994-9e50-c353dac3b1e1" />
 
-\#Introduction
+#Introduction
 This sales dashboard was created to analyze Apple's financial performance from 2023–2025.
 The data is from Apple Inc. Form 10-K annual reports covering 2023–2025. it contains Product revenue, Regional sales, Gross margins Operating expenses and Net profits
 
-\# Dashboard File
+#Dashboard File
 My final dashboard is in my shared file
 
 
 
-\## Excel Skills Used
+#Excel Skills Used
 The following Excel skills were utilized for analysis:  
 
 📊 Pivot Table   
@@ -34,12 +34,12 @@ Power Query was used to clean and structure the dataset. Key transformations inc
 -Adjusting column data types  
 !<img width="1920" height="1026" alt="Image" src="https://github.com/user-attachments/assets/979307db-06af-4e39-ad11-b332d2bc3c02" />  
 
- ## Sales Datasets
+ #Sales Datasets
  The dataset used for this project contains real-world data sales information for Apple.Inc from 2023-2025. The dataset is available in the included Excel file and provides the foundation for analysing data using Excel. it includes detailed information on product categories,revenue,profit margin, regional perfomance and annually trends, enabling a comprehensive analysis.
 
 
 
-##  Analytical questions That guide the analysis were: 
+#Analytical questions That guide the analysis were: 
 -Which Apple product generates the highest revenue?  
 -Which region contributes the largest share of sales?  
 -Which product segment produces the highest margins?  
@@ -48,7 +48,7 @@ Power Query was used to clean and structure the dataset. Key transformations inc
    !<img width="1036" height="558" alt="Image" src="https://github.com/user-attachments/assets/4485a52c-57f7-4ef6-b954-629d35358e55" />
 
 
-\## 🗺 Regional Sales Analysis
+# 🗺 Regional Sales Analysis
 ![🗺 Regional Sales-Map and Bubbles]<img width="1021" height="985" alt="Image" src="https://github.com/user-attachments/assets/abdab886-f7ec-4473-a3b9-b5dc4f49ecb3" /> 
  -Excel feature: utilized Map chat with Bubles feature to plot sales across regions in 2025.
  -Design Choice: The map is enhance with custom vector image to achieve a visually appealing layout. Bubbles were used to differentiate sales magnitude across regions.
@@ -56,7 +56,7 @@ Power Query was used to clean and structure the dataset. Key transformations inc
  -Visual Enhancement: improved readerbility and immediate understanding of geographica sales trend, enabling users to quickly grasp global sales disparities and easily indentify regions with high/low sales by bubble size.
 
 
- \##Product Performance Analysis  
+ #Product Performance Analysis  
 
 📱 iPhone  
 💻 Mac  
@@ -75,8 +75,8 @@ Power Query was used to clean and structure the dataset. Key transformations inc
   
 
 
-### Simulation MNodel
-## How would the revenue share change when product combinations and sales mix vary?
+#Simulation MNodel
+#How would the revenue share change when product combinations and sales mix vary?
 
 -Calculated total revenue and determined the percentage contribution of each product category.
 -** 📊Visualization** – Created a revenue share chart to illustrate how different products contribute to overall revenue.
@@ -91,7 +91,7 @@ Power Query was used to clean and structure the dataset. Key transformations inc
 
 
 
-### Conclusion
+#Conclusion
 if One product category accounts for the largest share of total revenue, it indicates strong market demand and brand dominance in that segment. A significant portion of total revenue is concentrated in a few key products, showing that overall company performance heavily depends on these top-performing segments.
 - **Product Mix Impact ** – Changes in the combination of products sold can noticeably alter the revenue distribution across categories.
 - **Growth Opportunities** – Some product segments contribute a smaller share of revenue, suggesting potential areas for strategic improvement or expansion.
