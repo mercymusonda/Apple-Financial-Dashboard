@@ -32,10 +32,15 @@ The following Excel skills were utilized for analysis:
 
 Power Query was used to clean and structure the dataset. Key transformations included:  
 -Extracting raw financial data
+
 -Removing unnecessary columns
+
 -Cleaning text fields
+
 -Trimming extra whitespace
+
 -Adjusting column data types
+
 <img width="1920" height="1026" alt="Image" src="https://github.com/user-attachments/assets/979307db-06af-4e39-ad11-b332d2bc3c02" />  
 
 ## 💰 Sales Datasets
@@ -52,13 +57,13 @@ Analytical questions That guide the analysis were;
 
 # 🗺 Regional Sales Analysis 
 <img width="1021" height="985" alt="Image" src="https://github.com/user-attachments/assets/abdab886-f7ec-4473-a3b9-b5dc4f49ecb3" /> 
--**Excel feature**: utilized Map chat with Bubles feature to plot sales across regions in 2025.
+-**Excel Feature**: Utilized Map chat with Bubles feature to plot sales across regions in 2025.
 
 -**Design Choice**: The map is enhance with custom vector image to achieve a visually appealing layout. Bubbles were used to differentiate sales magnitude across regions.
 
--**Data Representation**: created separate series for each country with the available data, cobining them to provide a comprehensive geographical view'
+-**Data Representation**: Created separate series for each country with the available data, cobining them to provide a comprehensive geographical view'
 
--**Visual Enhancement**: improved readerbility and immediate understanding of geographica sales trend, enabling users to quickly grasp global sales disparities and easily indentify regions with high/low sales by bubble size.
+-**Visual Enhancement**: Improved readerbility and immediate understanding of geographica sales trend, enabling users to quickly grasp global sales disparities and easily indentify regions with high/low sales by bubble size.
 
 
  ## Product Performance Analysis  
@@ -73,7 +78,7 @@ Analytical questions That guide the analysis were;
 
 -I first used Power Query to extract the original data and cleaned raw sales, imported back to excel
 
--**Data Transformation**: then Aggregated sales by product and region using Power Query.
+-**Data Transformation**: Aggregated sales by product and region using Power Query.
 
 -**Chart Creation**: Built a product performance chart in Excel to visualize revenue and sales trends.
 
@@ -103,8 +108,8 @@ How would the revenue share change when product combinations and sales mix vary?
 
 ## Conclusion
 if One product category accounts for the largest share of total revenue, it indicates strong market demand and brand dominance in that segment. A significant portion of total revenue is concentrated in a few key products, showing that overall company performance heavily depends on these top-performing segments.
-- **Product Mix Impact**:Changes in the combination of products sold can noticeably alter the revenue distribution across categories.
-- **Growth Opportunities**:Some product segments contribute a smaller share of revenue, suggesting potential areas for strategic improvement or expansion.
+- **Product Mix Impact**: Changes in the combination of products sold can noticeably alter the revenue distribution across categories.
+- **Growth Opportunities**: Some product segments contribute a smaller share of revenue, suggesting potential areas for strategic improvement or expansion.
 
 
 Other important chats
