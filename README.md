@@ -1,181 +1,112 @@
-# Apple Financial Dashboard
+# Apple Financial Dashboard (Excel)
+!<img width="1920" height="1009" alt="Image" src="https://github.com/user-attachments/assets/b6e16b6a-8ec2-4994-9e50-c353dac3b1e1" />
 
-Excel dashboard analyzing Apple Inc. financial performance (2023-2025)
+\#Introduction
+This sales dashboard was created to analyze Apple's financial performance from 2023–2025.
+The data is from Apple Inc. Form 10-K annual reports covering 2023–2025. it contains Product revenue, Regional sales, Gross margins Operating expenses and Net profits
 
-
-
-\# 🍎 This project presents an interactive Excel dashboard analyzing Apple's financial performance from 2023–2025.
-The dashboard explores revenue trends, profitability, regional sales distribution, and product performance using Excel analytical tools.
-
-
-\# 🍎 Apple Financial Performance Dashboard (Excel)
-
-!\[📊 Dashboard Overview](<img width="1920" height="1009" alt="Image" src="https://github.com/user-attachments/assets/b6e16b6a-8ec2-4994-9e50-c353dac3b1e1" />)
-
-
-\## 📌 Project Overview
-
-This project presents an \*\*interactive Excel dashboard\*\* analyzing the financial performance of \*\*Apple Inc.\*\* between 2023 and 2025. It helps \*\*investors, analysts, and board directors\*\* understand, revenue performance, profitability trends, regional sales distribution and Product performance  
+\# Dashboard File
+My final dashboard is in 
 
 
 
+\## Excel Skills Used
+The following Excel skills were utilized for analysis:  
 
-\## ❓ Analytical Questions
-
-To guide the analysis, we investigated:  
-
-📱 Which Apple product generates the highest revenue?  
-🌍 Which region contributes the largest share of sales?  
-💰 Which product segment produces the highest margins?  
-⚖️ Which products present higher or lower concentration risk?  
-📊 Does selling more devices necessarily lead to higher profits?  
-
-
-
-
-
-\## 🗂 Data Source
-
-📑 Data obtained from \*\*Apple Inc. Form 10-K annual reports\*\* covering 2023–2025:
-It comprised of Product revenue, Regional sales, Gross margins Operating expenses and Net profits
-
-
-
-
-
-\## 🧰 Excel Skills Used
-
-Excel tools applied during the analysis:  
-
-⚙️ \*\*Power Query\*\* – Data extraction \ and transformation  
-📊 \*\*Pivot Tables\*\* – Trend analysis  
-📈 \*\*Charts \ and Visualizations\*\* – Dashboard visuals  
-🗺 \*\*Map Charts\*\* – Regional revenue visualization  
-🧮 \*\*Formulas \ and Functions\*\* including:  
-
-➕ SUM  
-📊 SUMPRODUCT  
-📉 CAGR calculations  
-🔀 IF / Nested IF  
-📊 Percentage calculations  
-➖ Subtraction for allocation checks  
-
-
-
-
-\## 🧹 Data Preparation (Power Query)
+📊 Pivot Table   
+📈 data Visualizations and validation
+🗺 charts  
+🧮 Formulas and Functions including:  
+    ➕ SUM  
+    📊 SUMPRODUCT  
+    📉 CAGR calculations  
+    🔀 IF / Nested IF  
+    📊 Percentage calculations  
+    ➖ Subtraction for allocation checks
+    
+  🧹Power Query
 
 Power Query was used to clean and structure the dataset. Key transformations included:  
+   🧾 Extracting raw financial data  
+    🧹 Removing unnecessary columns  
+    🔤 Cleaning text fields  
+    ✂️ Trimming extra whitespace  
+    🔢 Adjusting column data types  
+!<img width="1920" height="1026" alt="Image" src="https://github.com/user-attachments/assets/979307db-06af-4e39-ad11-b332d2bc3c02" />  
 
-🧾 Extracting raw financial data  
-🧹 Removing unnecessary columns  
-🔤 Cleaning text fields  
-✂️ Trimming extra whitespace  
-🔢 Adjusting column data types  
-
-
-
-📷 \*Screenshot of Power Query cleaning steps:\*  
-
-!\[🧹 Power Query Cleaning](<img width="1920" height="1026" alt="Image" src="https://github.com/user-attachments/assets/979307db-06af-4e39-ad11-b332d2bc3c02" />)    
+ ## Sales Datasets
+ The dataset used for this project contains real-world data sales information for Apple.Inc from 2023-2025. The dataset is available in the included Excel file and provides the foundation for analysing data using Excel. it includes detailed information on product categories,revenue,profit margin, regional perfomance and annually trends, enabling a comprehensive analysis.
 
 
 
-\## 📈 Dashboard Features
-
-The dashboard highlights total revenue (2025),net Profit, top revenue product, top revenue region, revenue share by Product(2025), gross margin by segment ad revenue trend (2023–2025)  
-
-
-
-
-
-📷 \*Screenshot of revenue \& margin charts:\*  
-
-!\[📊 Revenue Share Overview 2025](<img width="1036" height="558" alt="Image" src="https://github.com/user-attachments/assets/4485a52c-57f7-4ef6-b954-629d35358e55" />)
+##  Analytical questions That guide the analysis were: 
+-📱 Which Apple product generates the highest revenue?  
+-🌍 Which region contributes the largest share of sales?  
+-💰 Which product segment produces the highest margins?  
+-⚖️ Which products present higher or lower concentration risk?  
+-📊 Does selling more devices necessarily lead to higher profits?  
+   
+!<img width="1036" height="558" alt="Image" src="https://github.com/user-attachments/assets/4485a52c-57f7-4ef6-b954-629d35358e55" />
 
 
 \## 🗺 Regional Sales Analysis
-
-A \*\*map chart with bubbles\*\* visualizes Apple's global revenue distribution by location for the year 2025.  
-
-Regions analyzed where Americas, Europe, Greater China, Japan and the Rest of Asia Pacific  
-
-🎯 Insight: \*\*Americas region generates the highest revenue share\*\*  
-
+![🗺 Regional Sales-Map and Bubbles]<img width="1021" height="985" alt="Image" src="https://github.com/user-attachments/assets/abdab886-f7ec-4473-a3b9-b5dc4f49ecb3" /> 
+-👾 Excel feature: utilized Map chat with Bubles feature to plot sales across regions in 2025.
+-🖌️ Design Choice: The map is enhance with custom vector image to achieve a visually appealing layout. Bubbles were used to differentiate sales magnitude across regions.
+-📊 Data Representation: created separate series for each country with the available data, cobining them to provide a comprehensive geographical view'
+-🔦 Visual Enhancement: improved readerbility and immediate understanding of geographica sales trend, enabling users to quickly grasp global sales disparities and easily indentify regions with high/low sales by bubble size.
 
 
-📷 \*Screenshot of map chart:\*  
-
-!\[🗺 Regional Sales Map](<img width="1021" height="985" alt="Image" src="https://github.com/user-attachments/assets/abdab886-f7ec-4473-a3b9-b5dc4f49ecb3" />)  
-
-
-
-
-
-\## 📱 Product Performance Analysis
-
-A \*\*Revenue Share vs Gross Margin chart\*\* compares product segments:  
+ \##Product Performance Analysis  
 
 📱 iPhone  
 💻 Mac  
 📟 iPad  
 🎧 Wearables  
-☁️ Services  
-🎯 Insight: Although \*\*iPhone generates the largest revenue\*\*, \*\*Services generate the highest margins\*\*  
+☁️ Services 
 
+-🏆**Which product has high revenue?**
 
+-🔎**Key Skills**
 
-📷 \*Screenshot of product performance chart:\*  
-
-!\[📈 Product Performance](<img width="1028" height="545" alt="Image" src="https://github.com/user-attachments/assets/5f3d2550-b893-4fff-b8d9-8164911d794a" />)  
+-I first used Power Query to extract the original data and cleaned raw sales, imported back to excel
+-🔄 Data Transformation – then Aggregated sales by product and region using Power Query.
+-📊Chart Creation  – Built a product performance chart in Excel to visualize revenue and sales trends.
+4.💡Insights – Identified top-selling products and their contribution to total revenue.
+!<img width="1028" height="545" alt="Image" src="https://github.com/user-attachments/assets/5f3d2550-b893-4fff-b8d9-8164911d794a" />  
   
 
 
+### Simulation MNodel
+## How would the revenue share change when product combinations and sales mix vary?
 
-\## 🔮 Scenario Analysis
+-Calculated total revenue and determined the percentage contribution of each product category.
+-** 📊Visualization** – Created a revenue share chart to illustrate how different products contribute to overall revenue.
+-**Data Comparison 📈** – Analyzed how different product combinations influence the overall revenue mix.
 
-A \*\*simulation model\*\* tests different revenue distribution strategies.  
-
-Using \*\*SUMPRODUCT\*\*, the dashboard estimates potential profitability if Apple reallocates revenue shares across products.  
-
-Users can explore scenarios such as:  
-
-📈 Increasing \*\*Service revenue share\*\*  
-📉 Reducing reliance on \*\*iPhone revenue\*\*  
-
-
-
-📷 \*Screenshot of scenario analysis table:\*  
-
-!\[🔮 Scenario Analysis](<img width="956" height="363" alt="Image" src="https://github.com/user-attachments/assets/99fba5c3-5fc3-4b67-9e19-dcc32c3aaa48" />)  
+**Insights 💡**
+- Certain products contribute a significantly larger portion of total revenue.
+- The revenue mix shows how dependent overall performance is on key products.
+- Changes in product combinations can shift the overall revenue distribution.
+**Recommendation ✅** 
+!<img width="956" height="363" alt="Image" src="https://github.com/user-attachments/assets/99fba5c3-5fc3-4b67-9e19-dcc32c3aaa48" />
 
 
 
+### Conclusion
+if One product category accounts for the largest share of total revenue, it indicates strong market demand and brand dominance in that segment. A significant portion of total revenue is concentrated in a few key products, showing that overall company performance heavily depends on these top-performing segments.
+- **Product Mix Impact ** – Changes in the combination of products sold can noticeably alter the revenue distribution across categories.
+- **Growth Opportunities** – Some product segments contribute a smaller share of revenue, suggesting potential areas for strategic improvement or expansion.
 
 
-\## 💡 Key Insights
+[Other dashboard chart]
 
-🎯 Services generate the highest profit  
-⚖️ Revenue diversification improves financial stability  
-📱  iPhone generates a high production cost, it does not produce the highest profit per dollar
-💰 Prioritize revenue growth in Services while maintaining balance for other segments  
+!<img width="1042" height="688" alt="Image" src="https://github.com/user-attachments/assets/4e349a10-4e2f-40a6-8020-029680b97ad4" />
 
+!<img width="1181" height="654" alt="Image" src="https://github.com/user-attachments/assets/a514fa9d-68c9-4642-ba41-fe505dad1d98" />
 
+!<img width="1161" height="684" alt="Image" src="https://github.com/user-attachments/assets/7805f6a2-755c-46fd-8789-bdcac4cf3cfc" />
 
-\## 🧠 Strategic Recommendation
-
-📈 Increasing investment in \*\*Services\*\* could improve long-term profitability.  
-💵 Services require lower production costs and produce higher margins, making them a strong growth opportunity.  
-
-
-
-\## 📷 \[Other dashboard chart]
-
-!(<img width="1042" height="688" alt="Image" src="https://github.com/user-attachments/assets/4e349a10-4e2f-40a6-8020-029680b97ad4" />)
-
-!(<img width="1181" height="654" alt="Image" src="https://github.com/user-attachments/assets/a514fa9d-68c9-4642-ba41-fe505dad1d98" />)
-
-!(<img width="1161" height="684" alt="Image" src="https://github.com/user-attachments/assets/7805f6a2-755c-46fd-8789-bdcac4cf3cfc" />)
 
 
 
