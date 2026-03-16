@@ -48,20 +48,25 @@ Power Query was used to clean and structure the dataset. Key transformations inc
 
 Analytical questions That guide the analysis were; 
 -Which Apple product generates the highest revenue?  
+
 -Which region contributes the largest share of sales?  
+
 -Which product segment produces the highest margins?  
+
 -Which products present higher or lower concentration risk?  
+
 -Does selling more devices necessarily lead to higher profits?  
 <img width="1036" height="558" alt="Image" src="https://github.com/user-attachments/assets/4485a52c-57f7-4ef6-b954-629d35358e55" />
 
 
 # 🗺 Regional Sales Analysis 
 <img width="1021" height="985" alt="Image" src="https://github.com/user-attachments/assets/abdab886-f7ec-4473-a3b9-b5dc4f49ecb3" /> 
+
 -**Excel Feature**: Utilized Map chat with Bubles feature to plot sales across regions in 2025.
 
 -**Design Choice**: The map is enhance with custom vector image to achieve a visually appealing layout. Bubbles were used to differentiate sales magnitude across regions.
 
--**Data Representation**: Created separate series for each country with the available data, cobining them to provide a comprehensive geographical view'
+-**Data Representation**: Created separate series for each country with the available data, cobining them to provide a comprehensive geographical view.
 
 -**Visual Enhancement**: Improved readerbility and immediate understanding of geographica sales trend, enabling users to quickly grasp global sales disparities and easily indentify regions with high/low sales by bubble size.
 
@@ -76,7 +81,7 @@ Analytical questions That guide the analysis were;
 ## Which product has a high revenue?
 **Key Skills**
 
--I first used Power Query to extract the original data and cleaned raw sales, imported back to excel
+-**Power Query** I first extracted the original data and cleaned it then imported back to excel.
 
 -**Data Transformation**: Aggregated sales by product and region using Power Query.
 
