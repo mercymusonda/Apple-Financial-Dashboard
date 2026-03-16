@@ -1,16 +1,16 @@
-# Apple Financial Dashboard (Excel)
-!<img width="1920" height="1009" alt="Image" src="https://github.com/user-attachments/assets/b6e16b6a-8ec2-4994-9e50-c353dac3b1e1" />
+## Apple Financial Dashboard (Excel)
+<img width="1920" height="1009" alt="Image" src="https://github.com/user-attachments/assets/b6e16b6a-8ec2-4994-9e50-c353dac3b1e1" />
 
-#Introduction
+##Introduction
 This sales dashboard was created to analyze Apple's financial performance from 2023–2025.
 The data is from Apple Inc. Form 10-K annual reports covering 2023–2025. it contains Product revenue, Regional sales, Gross margins Operating expenses and Net profits
 
-#Dashboard File
+##Dashboard File
 My final dashboard is in my shared file
 
 
 
-#Excel Skills Used
+##Excel Skills Used
 The following Excel skills were utilized for analysis:  
 
 📊 Pivot Table   
